@@ -10,7 +10,6 @@ print("Modulu", num1%num2)
 print("Divide", num1/num2)
 
 
-
 # Relational/ Comparison
 
 

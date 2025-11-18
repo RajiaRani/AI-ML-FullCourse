@@ -1,4 +1,9 @@
-#  Arithmetic
+#  Arithmetic = +, -, %, *, /, 
+
+num1 = 20
+num2 = 30
+sum = num1 + num2
+print("Sum", sum)
 
 # Relational/ Comparison
 

@@ -31,4 +31,17 @@ print(y)
 
 
 
-# Logical
+# Logical - NOT, OR, AND
+var = False
+print(not (var))
+
+if age == 20 and name=="Rajia":
+    print("It is correct")
+else:
+    print("Wrong")
+
+# OR
+if age == 20 or name=="Rajia":
+    print("It is correct")
+else:
+    print("Wrong")

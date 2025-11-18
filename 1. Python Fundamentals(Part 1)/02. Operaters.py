@@ -17,7 +17,18 @@ print(a>b)
 print(a>b)
 print(a == b)
 print(a!=b)
-# Assignment
+
+
+# Assignment - assign the value
+name = "Heema"
+age = 20
+x = 5
+x+= 1 # means x = x+1
+y = 2
+y-=2
+print(x)
+print(y)
+
 
 
 # Logical

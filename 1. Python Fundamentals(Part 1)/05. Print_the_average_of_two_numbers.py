@@ -4,7 +4,7 @@ average = (num1+num2)/ 2
 print("Average: ", average)
 
 
-
+# Program 2
 a = float(input("Enter first number: "))
 b = float(input("Enter second number: "))
 avg = (a+b)/2

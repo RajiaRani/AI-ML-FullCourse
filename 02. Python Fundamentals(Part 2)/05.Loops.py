@@ -37,4 +37,4 @@ total_sum = 0
 while(total_sum<50):
     num = int(input('Enter number'))
     total_sum = total_sum + num
-print("Total reached:", total)
+print("Total reached:", total_sum)

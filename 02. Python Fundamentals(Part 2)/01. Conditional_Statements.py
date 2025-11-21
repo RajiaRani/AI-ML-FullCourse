@@ -12,3 +12,13 @@ if (legal_age >= 18):
     print("You can vote")
 else:
     print("Sorry you can not vote")
+
+
+
+
+# Program 
+password = int(input("Enter the password: "))
+if password == 12345:
+    print("Unlocked")
+else:
+    print("Wrong password try again!")

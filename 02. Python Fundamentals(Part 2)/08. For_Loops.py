@@ -28,6 +28,6 @@ print(count)
 # Program 4 - print vowel - a, e, o, u, i
 vowel_count = 0
 for ch in word:
-    if(ch=='a' or ch=='e' or ch=='i' or ch=='o' or ch=='u'):
+    if(ch=='a' or ch=='e' or ch=='i' or ch=='o' or  ch=='u'):
         vowel_count+=1
 print(vowel_count)

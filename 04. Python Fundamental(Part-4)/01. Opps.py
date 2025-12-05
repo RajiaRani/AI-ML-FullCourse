@@ -8,6 +8,7 @@ class Student:
     subject = "Python",
     college = "GNDU"
 
+
 # stu1 = Student()
 # print(stu1) # shows memory location
 # stu2 = Student()

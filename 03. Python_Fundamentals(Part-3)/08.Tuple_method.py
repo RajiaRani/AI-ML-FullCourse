@@ -13,3 +13,9 @@ print(f"Sum of values = {sum}")
 
 print(f"Value of 6 = {tup.index(6)}")
 print(f"Count of 2 = {tup.count(2)}")
+
+
+point = (10, 20)
+print(point)
+print(point[0])
+# Note = NO .append(), .remove() - tuple cannot be changed

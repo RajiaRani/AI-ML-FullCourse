@@ -19,3 +19,11 @@ point = (10, 20)
 print(point)
 print(point[0])
 # Note = NO .append(), .remove() - tuple cannot be changed
+
+
+# create a tuple of strings
+s1 = ("a", "b", "c")
+# print first element
+print(s1[0])
+# try to add a value - error show karega
+# unpack tuple into variable

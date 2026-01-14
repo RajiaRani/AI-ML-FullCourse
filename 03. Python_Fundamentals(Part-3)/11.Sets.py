@@ -16,3 +16,26 @@ print(unique)
 
 empty_set = {}
 print(type(empty_set))
+
+
+# Remove user id
+user_id = [101, 102, 101, 103, 104, 101, 102, 105, 106]
+unique_users = set(user_id)
+print(unique_users)
+
+# Unique Vocabulary in NLP
+text = "AI is the future of AI"
+vocab = set(text.split())
+print(vocab)
+
+# Feature Selection
+selected_features = {"age", "salary", "experience"}
+important_features = {"salary", "experience"}
+print(selected_features & important_features)
+
+# Set Operations
+A = {1,2,3}
+B = {3, 4, 5}
+print(A | B) # print union
+print(A & B) # print Intersection
+print(A - B) # Difference

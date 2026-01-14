@@ -27,3 +27,19 @@ s1 = ("a", "b", "c")
 print(s1[0])
 # try to add a value - error show karega
 # unpack tuple into variable
+x, y, z = s1
+print(s1)
+print(x)
+print(y)
+
+# make list into tuples
+list = [1, 2, 4, 5, 6]
+new_list = tuple(list)
+print(new_list)
+
+# Can you sort a tuple - No, we can not directly sort - first we change into list then sort it again change into tuple
+temp = list(new_list)
+temp.sort()
+tup = tuple(temp)
+
+

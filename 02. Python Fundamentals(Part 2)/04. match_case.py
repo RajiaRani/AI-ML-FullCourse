@@ -1,7 +1,6 @@
 #Program 1
 
-color = input("Enter color: ")
-
+# color = input("Enter color: ")
 # match color:
 #     case "green":
 #         print("Go")
@@ -14,7 +13,6 @@ color = input("Enter color: ")
 
 # Program 2
 day = 3
-
 # match day:
 #     case 1:
 #         print("Monday")

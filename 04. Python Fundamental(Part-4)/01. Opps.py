@@ -9,8 +9,8 @@ class Student:
     college = "GNDU"
 
 
-# stu1 = Student()
-# print(stu1) # shows memory location
-# stu2 = Student()
-# print(stu2) # show different memory location even though student subject is same
+stu1 = Student()
+print(stu1) # shows memory location
+stu2 = Student()
+print(stu2) # show different memory location even though student subject is same
     

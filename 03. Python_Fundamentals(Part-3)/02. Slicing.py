@@ -15,3 +15,8 @@ str1 = "Hello"
 n = len(str1)
 print(str1[0: n])
 print(str1[-4: -2 ])
+
+
+name = "Hello , my name is"
+name_slice = name[10:13]
+print(name_slice)

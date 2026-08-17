@@ -16,3 +16,7 @@ print(word1[3])
 # using for loop
 for ch in word2:
     print(ch)
+
+name = "Rajiber kaur"
+age = 27
+print(name[0])
